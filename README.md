@@ -24,8 +24,7 @@ This portfolio is built as an interactive journey through my work — from front
 
 ## 🎞️ Live Preview
 
-Soon to be deployed.  
-This repository contains the full codebase for my portfolio website.
+>>https://rc25.netlify.app/
 
 ---
 
